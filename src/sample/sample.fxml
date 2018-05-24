@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.shape.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="594.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <HBox prefHeight="47.0" prefWidth="600.0">
+         <children>
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="10.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="10.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="43.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="109.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="10.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="76.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="43.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="109.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="142.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="241.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="10.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="175.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="76.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="208.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="43.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="505.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="472.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+         </children>
+      </HBox>
+      <HBox layoutY="94.0" prefHeight="47.0" prefWidth="600.0">
+         <children>
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="10.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="10.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="43.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="109.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="10.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="76.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="43.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="109.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="142.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="241.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="10.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="175.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="76.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="208.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="43.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="505.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="46.0" layoutX="472.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" width="33.0" />
+         </children>
+      </HBox>
+      <GridPane layoutX="121.0" layoutY="175.0" prefHeight="180.0" prefWidth="304.0" AnchorPane.bottomAnchor="45.0" AnchorPane.leftAnchor="121.0" AnchorPane.rightAnchor="169.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Button fx:id="b" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="49.0" prefWidth="48.0" text="B" GridPane.columnIndex="1" />
+            <Button fx:id="c" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="47.0" prefWidth="46.0" text="C" GridPane.columnIndex="2" />
+            <Button fx:id="d" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="45.0" prefWidth="44.0" text="D" GridPane.columnIndex="3" />
+            <Button fx:id="e" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="47.0" prefWidth="44.0" text="E" GridPane.columnIndex="4" />
+            <Button fx:id="f" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="47.0" prefWidth="44.0" text="F" GridPane.columnIndex="5" />
+            <Button fx:id="g" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="47.0" prefWidth="44.0" text="G" GridPane.columnIndex="6" />
+            <Button fx:id="h" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="59.0" prefWidth="61.0" text="H" GridPane.rowIndex="1" />
+            <Button fx:id="i" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="49.0" prefWidth="43.0" text="I" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <Button fx:id="j" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="45.0" prefWidth="45.0" text="J" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+            <Button fx:id="k" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="48.0" prefWidth="44.0" text="K" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+            <Button fx:id="l" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="46.0" prefWidth="46.0" text="L" GridPane.columnIndex="4" GridPane.rowIndex="1" />
+            <Button fx:id="m" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="45.0" prefWidth="51.0" text="M" GridPane.columnIndex="5" GridPane.rowIndex="1" />
+            <Button fx:id="n" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="48.0" prefWidth="44.0" text="N" GridPane.columnIndex="6" GridPane.rowIndex="1" />
+            <Button fx:id="o" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="50.0" prefWidth="44.0" text="O" GridPane.rowIndex="2" />
+            <Button fx:id="p" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="45.0" prefWidth="43.0" text="P" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+            <Button fx:id="q" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="85.0" prefWidth="70.0" text="Q" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+            <Button fx:id="r" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="47.0" prefWidth="47.0" text="R" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+            <Button fx:id="s" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="46.0" prefWidth="44.0" text="S" GridPane.columnIndex="4" GridPane.rowIndex="2" />
+            <Button fx:id="t" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="45.0" prefWidth="44.0" text="T" GridPane.columnIndex="5" GridPane.rowIndex="2" />
+            <Button fx:id="u" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="50.0" prefWidth="44.0" text="U" GridPane.columnIndex="6" GridPane.rowIndex="2" />
+            <Button fx:id="v" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="47.0" prefWidth="44.0" text="V" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+            <Button fx:id="w" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="45.0" prefWidth="49.0" text="W" GridPane.columnIndex="2" GridPane.rowIndex="3" />
+            <Button disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="46.0" prefWidth="44.0" text="X" GridPane.columnIndex="3" GridPane.rowIndex="3" fx:id="x" />
+            <Button fx:id="y" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="71.0" prefWidth="56.0" text="Y" GridPane.columnIndex="4" GridPane.rowIndex="3" />
+            <Button fx:id="z" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="47.0" prefWidth="46.0" text="Z" GridPane.columnIndex="5" GridPane.rowIndex="3" />
+            <Button fx:id="a" disable="true" mnemonicParsing="false" onAction="#sendLetter" prefHeight="88.0" prefWidth="68.0" text="A" />
+         </children>
+      </GridPane>
+      <GridPane layoutX="14.0" layoutY="156.0" prefHeight="230.0" prefWidth="100.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Button fx:id="quitGameButton" mnemonicParsing="false" onAction="#quitGame" prefHeight="52.0" prefWidth="144.0" text="Quit Game" GridPane.rowIndex="4" />
+            <Button fx:id="newGameButton" disable="true" mnemonicParsing="false" onAction="#newGame" prefHeight="57.0" prefWidth="125.0" text="New Game" GridPane.rowIndex="3" />
+            <Label fx:id="lossLabel" prefHeight="69.0" prefWidth="121.0" text="Losses:" GridPane.rowIndex="1" />
+            <Label fx:id="winLabel" prefHeight="68.0" prefWidth="140.0" text="Wins: " />
+            <Button fx:id="connectServerButton" mnemonicParsing="false" onAction="#connectServer" prefHeight="68.0" prefWidth="135.0" text="Connect Server" GridPane.rowIndex="2">
+               <font>
+                  <Font name="System Bold" size="10.0" />
+               </font>
+            </Button>
+         </children>
+      </GridPane>
+      <Label fx:id="wordGuessLabel" graphicTextGap="10.0" layoutX="81.0" layoutY="53.0" prefHeight="35.0" prefWidth="432.0" textAlignment="CENTER" AnchorPane.bottomAnchor="312.0" AnchorPane.leftAnchor="81.0" AnchorPane.rightAnchor="81.0" AnchorPane.topAnchor="53.0">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <Sphere fx:id="hangmanHead" layoutX="524.0" layoutY="220.0" radius="20.0" AnchorPane.bottomAnchor="160.0" AnchorPane.leftAnchor="504.0" AnchorPane.rightAnchor="50.0" AnchorPane.topAnchor="200.0" />
+      <Line fx:id="hangmanSpine" endX="50.0" layoutX="524.0" layoutY="290.0" rotate="90.0" startX="-50.0" />
+      <Line fx:id="rightArm" endX="40.0" layoutX="518.0" layoutY="280.0" rotate="45.0" />
+      <Line fx:id="leftArm" layoutX="529.0" layoutY="280.0" rotate="-45.0" startX="-40.0" />
+      <Sphere fx:id="leftHand" layoutX="494.0" layoutY="295.0" radius="5.0" />
+      <Sphere fx:id="rightHand" layoutX="553.0" layoutY="295.0" radius="5.0" />
+      <Line fx:id="rightLeg" endX="40.0" layoutX="518.0" layoutY="349.0" rotate="45.0" />
+      <Line fx:id="leftLeg" layoutX="530.0" layoutY="349.0" rotate="-45.0" startX="-40.0" />
+      <Sphere fx:id="leftFoot" layoutX="495.0" layoutY="364.0" radius="10.0" />
+      <Sphere fx:id="rightFoot" layoutX="553.0" layoutY="364.0" radius="10.0" />
+      <Line endX="-30.0" layoutX="553.0" layoutY="156.0" startX="-100.0" />
+      <Line endX="50.0" layoutX="453.0" layoutY="386.0" startX="-50.0" />
+      <Line endX="115.0" layoutX="453.0" layoutY="270.0" rotate="90.0" startX="-115.0" />
+      <Line endX="-30.0" layoutX="533.0" layoutY="178.0" rotate="90.0" startX="10.0" AnchorPane.bottomAnchor="221.5" AnchorPane.leftAnchor="502.5" AnchorPane.rightAnchor="50.5" AnchorPane.topAnchor="177.5" />
+   </children>
+</AnchorPane>
